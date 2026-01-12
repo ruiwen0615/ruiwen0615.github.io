@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Staff Software Engineer @ Sensebrain | PhD from Notre Dame
+subtitle: Imaging Software Engineer @ Google | PhD from Notre Dame
 
 profile:
   align: right
@@ -26,11 +26,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Staff Software Engineer at Sensebrain, specializing in efficient image processing, computer vision algorithms, and software development on edge devices. 
+
+
+I am an Imaging Software Engineer at Google, working on [Google Beam](https://beam.google.com/). I earned my PhD in Electrical and Computer Engineering from the [University of Notre Dame](https://www.nd.edu/), advised by [Prof. Robert L. Stevenson](https://www.nd.edu/~stevenson/). Before that, I completed my studies at [Tongji University](https://www.tongji.edu.cn/).
+
+I am generally interested in efficient image & video processing, computer vision algorithms, and software development on edge devices. 
 
 I have over 15 years of research and professional experience in the field, with a focus on machine learning and deep learning models. My work spans data collection, network architecture design, training, testing, compression, quantization, and deployment.
 
-I earned my PhD in Electrical Engineering from the University of Notre Dame, advised by Prof. Robert L. Stevenson. Before that, I completed my studies at Tongji University.
 
-My research interests include computational photography, image restoration, and video processing.
+
 
